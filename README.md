@@ -8,6 +8,6 @@ Instructions:
 git clone https://github.com/husseinshoqanebi/static-proot-arm.git
 cd static-proot-arm
 cp proot /usr/bin
-chmod + x /usr/bin/proot
+chmod +x /usr/bin/proot
 proot
 ```
